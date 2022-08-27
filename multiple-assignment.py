@@ -1,23 +1,23 @@
 # multiple assignment = allows us to assign multiple variables at the same time in one line of code
 
-name = "Bro"
-age = 21
-attractive = True
+name = "Xneon"
+age = 15
+Youtuber = True
 
-name, age, attractive = "Bro", 21, True
+name, age, attractive = "Xneon", 15, True
 
 print(name)
 print(age)
 print(attractive)
 
-# Spongebob = 30
-# Patrick = 30
-# Sandy = 30
-# Squidward = 30
+# Ben = 16
+# Tom = 16
+# Ginger = 16
+# Hank = 16
 
-# Spongebob = Patrick = Sandy = Squidward = 30
+# Ben = Tom = Ginger = Hank = 30
 
-# print(Spongebob)
-# print(Patrick)
-# print(Sandy)
-# print(Squidward)
+# print(Ben)
+# print(Tom)
+# print(Ginger)
+# print(Hank)
